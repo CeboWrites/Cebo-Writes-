@@ -1,19 +1,20 @@
 # 🖋️ Poetry
 
-Welcome to the Poetry section of Cebo Writes. This collection features original written pieces, spoken word layouts, and anthologies.
+Original written pieces, spoken word layouts, and anthologies from Cebo Writes.
 
 ## Organization
-- **Original Pieces**: Individual poems and collections
-- **Spoken Word**: Poetry recordings and transcripts
-- **Anthologies**: Curated collections and themes
-- **Drafts**: Works in progress
+- **Collections**: Themed poetry collections
+- **Spoken Word**: Performance transcripts and audio notes
+- **Anthologies**: Curated compilations
+- **Drafts**: Work in progress pieces
+- **Published**: Finalized poems ready for publication
 
-## Add Your Work
-1. Create a new `.md` file with your poem
-2. Include metadata at the top (title, date, theme)
-3. Add your content below the metadata
-4. Submit a pull request
+## Submission Guidelines
+- Include poem title and date written
+- Add content warnings if applicable
+- Provide a brief author's note (optional)
+- Use consistent formatting
 
 ---
 
-*All poetry published here is original work by Cebo Writes unless otherwise credited.*
+*All poetry is published under Creative Commons Zero (CC0) 1.0 Universal*
