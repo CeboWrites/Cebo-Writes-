@@ -35,5 +35,5 @@ This repository powers the front-facing platform for the **Cebo Writes** creativ
 ## 📬 Contact & Connect
 
 * **Website:** [Cebo Writes App](https://preview--cebowrites.lovable.app/)
-* **Email:** *[Your email here]*
-* **Socials:** *[Your social links here]*
+* **Email:** *[mtlloc38@gmail.com]*
+* **Socials:** *[https://github.com/CeboWrites/Cebo-Writes-.git]*
