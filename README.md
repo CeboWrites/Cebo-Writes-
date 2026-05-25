@@ -4,7 +4,7 @@ Poetry/ Fashion/ Vlogs/Podcasts/Newsletter
 
 Welcome to **Cebo-Writes-**, a creative hub dedicated to showcasing contemporary poetry, curated fashion insights, engaging vlogs, thought-provoking podcasts, and regular newsletter updates.
 
-[![Live App Preview](https://shields.io)](https://lovable.app)
+https://shields.io)](https://lovable.app)
 
 ---
 
